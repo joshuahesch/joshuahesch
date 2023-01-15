@@ -10,7 +10,7 @@
 
 <h2>TryHackMe</h2>
 
-<script src="https://tryhackme.com/badge/1575457"></script>
+- [Profile](https://tryhackme.com/p/JoshuaHesch)
 
 <h2> 🤳 Connect with me:</h2>
 
