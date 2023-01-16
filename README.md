@@ -14,6 +14,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/122753132/212734827-4a348f47-5ec8-4f91-a487-49e5cbdf9664.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/joshua-hesch/
