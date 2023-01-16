@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Traffic Analysis Investigation](https://github.com/joshuahesch/Traffic-Analysis)
 
 <h2>Certifications</h2>
 
