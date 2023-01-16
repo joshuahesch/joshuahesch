@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-- [TestOut Security Pro](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [TestOut Security Pro](https://certification.testout.com/verifycert/6-2C6-NFXF9)
 
 <h2>TryHackMe</h2>
 
