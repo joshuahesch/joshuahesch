@@ -14,6 +14,7 @@
 
 <h2>Resume</h2>
 
+- [Resume](https://github.com/joshuahesch/Resume/blob/main/JoshuaHeschResume.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
